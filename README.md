@@ -34,7 +34,7 @@ Building a solid analytics portfolio
 
 LinkedIn:www.linkedin.com/in/sharmistha-shekharee-biswal
 
-GitHub:
+GitHub:https://github.com/biswalsharmistha999
 
 <!--
 **biswalsharmistha999/biswalsharmistha999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
