@@ -1,4 +1,8 @@
-👋 Hi, I'm Sharmistha
+About_Me
+
+All about me
+
+Hi there,👋 Hi, I'm Sharmistha
 
 A motivated Data Analyst Fresher with a strong interest in SQL, Excel, Power BI, and Data Visualization. I enjoy turning raw data into meaningful insights and building clean, interactive dashboards.
 
